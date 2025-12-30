@@ -1,2 +1,2 @@
 # Wine-Prediction-Model1
-for versioning and MLflow
+for data versioning and MLflow

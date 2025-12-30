@@ -1,4 +1,4 @@
-data/wine_sample.csv
 .dvc/config.local
 .dvc/tmp
 .dvc/cache
+.venv
